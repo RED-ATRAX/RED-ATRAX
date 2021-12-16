@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tableau</title>
+</head>
+<body>
+ <table> 
+  <tr>
+    <td>The grqnd hotel budqpest</td>
+    <td>2014</td>
+    <td>wes anderson</td>
+    <td>91%      
+    </td>
+  </tr>
+  <tr>
+    <td>Star Wars</td>
+    <td>1997</td>
+    <td>George Lucas</td>
+    <td>92%</td>
+  </tr>
+  <tr>
+    <td>Inception</td>
+    <td>2010</td>
+    <td>Christopher Nolan</td>
+    <td>87%</td> 
+  </tr>
+ 
+ </table>
+ <table>
+  <tr>
+    <td>Toulon</td>
+    <td>Paul</td>
+    <td><a href="Paul@mail.fr">paul@mail.fr</td>
+  </tr>
+  <tr>
+    <td>Brest</td>
+    <td>Julie</td>
+    <td><a href="julie@mail.fr">julie@mail.fr</td>
+  </tr>
+  <tr>
+    <td>Nimes</td>
+    <td>Karine</td>
+    <td><a href="karine@mail.fr">karine@mail.fr</td>
+  </tr>
+ </table>
+</body>
+</html>
