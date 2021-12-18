@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tableau</title>
+</head>
+<body>
+ <table border="4"> 
+  <tr>
+    <td colspan="">The grqnd hotel budqpest</td>
+    <td>2014</td>
+    <td>wes anderson</td>
+    <td>91%      
+    </td>
+  </tr>
+  <tr>
+    <td>Star Wars</td>
+    <td>1997</td>
+    <td>George Lucas</td>
+    <td>92%</td>
+  </tr>
+  <tr>
+    <td>Inception</td>
+    <td>2010</td>
+    <td>Christopher Nolan</td>
+    <td>87%</td> 
+  </tr>
+ 
+ </table>
+ <table border="3">
+   <caption>Mon tableau</caption>
+  <tr>
+    <td>Toulon</td>
+    <td>Paul</td>
+    <td><a href="Paul@mail.fr">paul@mail.fr</td>
+  </tr>
+  <tr>
+    <td>Brest</td>
+    <td>Julie</td>
+    <td><a href="julie@mail.fr">julie@mail.fr</td>
+  </tr>
+  <tr>
+    <td>Nimes</td>
+    <td>Karine</td>
+    <td><a href="karine@mail.fr">karine@mail.fr</td>
+  </tr>
+ </table>
+
+<table border="1">
+  <caption>Listes des utilisateurs du blog</caption>
+<thead>
+  <tr>
+   <th colspan="2">Domaine jardinage</th>
+   <th>Jean Michel</th>
+   <th><a href="mailto:jean.michel@mail.fr">jean.michel@mail.fr</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+   <td rowspan="2">grimper</td>
+   <td>réunion</td>
+   <td>ouvert</td>
+  </tr>
+  <tr>
+   <td>aimer</td>
+   <td>larguer</td>
+   <td>pardoner</td>
+  </tr>
+</tbody>
+
+
+
+
+<tfoot>
+  <tr>
+   <td>descendre</td>
+   <td>dispertion</td>
+   <td>fermé</td>
+  </tr>
+</tfoot>
+  <tr>
+   <td>marcher</td>
+   <td>courir</td>
+   <td>lever</td>
+  </tr>
+  </tr>
+</table>
+
+
+
+<table border="1">
+  <caption> la liste des employés</caption>
+   <thead>
+     <tr>
+       <th>Ville</th>
+       <th>Prénoms</th>
+       <th>E-mails</th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>Toulon</td>
+       <td>Paul</td>
+       <td><a href="paul@mail.fr">paul@mail.fr</td>
+     </tr>
+
+     <tr>
+       <td rowspan="2">Brest</td>
+       <td>julie</td>
+       <td><a href="julie@mail.fr">julie@mail.fr</td>
+     </tr>
+
+     <tr>
+       
+       <td>Karine</td>
+       <td><a href="karine@mail.fr">karine@mail.fr</td>
+     </tr>
+   </tbody>
+</table>
+</body>
+</html>
+
+
