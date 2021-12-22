@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercice tableau style</title>
+  <link rel="stylesheet" href="style.css"
+</head>
+<body>
+  <!--<table>
+    <caption>Liste des employés</caption>
+    <thead>
+        <tr>
+            <th>Ville</th>
+            <th>Prénom</th>
+            <th>E-mail</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Toulon</td>
+        <td>Paul</td>
+        <td><a href="mailto:paul@mail.fr">paul@mail.fr</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">Brest</td>
+        <td>Julie</td>
+        <td><a href="mailto:julie@mail.fr">julie@mail.fr</a></td>
+    </tr>
+    <tr>
+        <td>Karine</td>
+        <td><a href="mailto:karine@mail.fr">karine@mail.fr</a></td>
+    </tr>
+    </tbody>
+  </table>-->
+  
+  <header>
+    <h1>O'Jardin</h1>
+</header>
+<table>
+<caption> Liste des fruits et légumes disponibles à la vente.</caption>
+    <thead>
+      <tr>
+        <th>Catégories</th>
+        <th>produit</th>
+        <th>quantité disponible </th>
+        <th>Prix au kilo</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td rowspan="4">Fruits</td>
+        <td>Pêches</td>
+        <td>10 kg</td>
+        <td>3,3 EUR</td>
+      </tr>
+
+       <tr>
+        
+        <td>Nectarines</td>
+        <td>5 kg</td>
+        <td>3,39 EUR</td>
+      </tr>
+
+       <tr>
+        
+        <td>Pommes</td>
+        <td>7 kg</td>
+        <td>2,73 EUR</td>
+      </tr>
+
+       <tr>
+        
+        <td>Melons</td>
+        <td>15 kg</td>
+        <td>2,56 EUR</td>
+      </tr>
+
+       <tr>
+        <td rowspan="4">Légumes</td>
+        <td>Carottes</td>
+        <td>8 kg </td>
+        <td>1,85 EUR</td>
+      </tr>
+
+       <tr>
+        <td>Courgettes</td>
+        <td>7 kg</td>
+        <td>1,73 EUR</td>
+      </tr>
+
+       <tr>
+        <td>Salade</td>
+        <td>3 kg</td>
+        <td>1,06 EUR</td>
+      </tr>
+
+       <tr>
+        <td>Poivrons</td>
+        <td>4 kg</td>
+        <td>3,43 EUR</td>
+      </tr>
+    </tbody>   
+    <tfoot>
+      <tr>
+        <td colspan="4" rowspan="4">Quantité de fruits et légumes disponible : 56kg </td>
+      </tr> 
+    </tfoot>
+</table>
+</body>
+</html>
