@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>mon formulaire</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <!--<div class="contact-wrapper">
+		 <div class="form-horizontal">
+			<h1 class="section-header">Posez-nous vos questions !</h1>
+			<p>Nom</p>
+			<p>Email</p>
+			<p>Téléphone</p>
+			<p>Catégorie de question</p>
+			<p>Message</p>
+			<div class="send-button">Envoyer</div>
+			<div class="advert-wrapper">
+				<p>Souhaitez-vous recevoir nos news ?</p>
+			</div>
+		</div>
+	 </div>-->
+   <form 
+   method="post" 
+   action="action.php.">
+     <input type="email" name="">
+     <textarea rows="3" cols="7">voici mon premier texte area</textarea>
+   </form>
+    
+  </body>
+</html>
