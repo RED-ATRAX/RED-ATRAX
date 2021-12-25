@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>mon formulaire</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <!--<div class="contact-wrapper">
+		 <div class="form-horizontal">
+			<h1 class="section-header">Posez-nous vos questions !</h1>
+			<p>Nom</p>
+			<p>Email</p>
+			<p>Téléphone</p>
+			<p>Catégorie de question</p>
+			<p>Message</p>
+			<div class="send-button">Envoyer</div>
+			<div class="advert-wrapper">
+				<p>Souhaitez-vous recevoir nos news ?</p>
+			</div>
+		</div>
+	 </div>-->
+   <!--<form 
+   method="post" 
+   action="action.php.">
+
+     <label for="name">nom</label>
+     <input type="text" id="name" name="name" placeholder="saisissez votre nom">
+
+     <label for="date">Date de naissance</label>
+     <input type="date" id="date" name="birthdate" placeholder="saisissez votre date de naissance">
+
+     <label for="comment">commentaire</label>
+     <textarea rows="4" name="comment" placeholder="ajoutez votre commentaire"></textarea>
+
+     <label for="email">votre adresse mail</label>
+     <input type="email" id="email" name="email" placeholder="saisissez votre adresse mail">
+   </form>-->
+   <!--<form method="post"
+         action="">
+     <P>quel est ton animal préféré?</p>
+     <input type="radio"  id="dog" name="animals">
+     <label for="dog">chien</label>
+     <input type="radio" id="cat" name="animals">
+     <label for="cat">chat</label>
+     <input type="radio"  id="hamster" name="animals">
+     <label for="hamster">hamster</label>
+
+     <p> Quels sont vos hobbies?</p>
+
+     <input type="checkbox" id="basket" name="hobbie">
+     <label for="basket">basket</label>
+
+     <input type="checkbox" id="foot" name="hobbie">
+     <label for="foot">foot</label>
+
+     <input type="checkbox" id="lecture" name="hobbie">
+     <label for="lecture">lecture</label>
+
+    <input type="checkbox" id="dance" name="hobbie">
+    <label for="dance">dance</label>
+
+    <p> Quel est votre saisons préféré?</p>
+    <select name="favorite season" id="favorite season">
+      <option value="spring">printemps</option>
+      <option value="summer">été</option>
+      <option value="fall">automne</option>
+      <option value="winter">hiver</option>
+    </select>
+
+   </form>-->
+
+   <form
+   method="post"
+   action="action.php">
+     <label for="name">Votre nom</label>
+        <input type="text" name="name" id="name" placeholder="Saisissez votre nom">
+        <label for="birthDate">Votre date de naissance</label>
+        <input type="date" name="birthDate" id="birthDate" placeholder="Saisissez votre date de naissance">
+        <label for="comment">Commentaire</label>
+        <textarea rows="4" name="comment" id="comment" placeholder="Ajoutez un commentaire pertinent"></textarea>
+        <label for="email">Votre adresse e-mail</label>
+        <input type="email" name="email" id="email" placeholder="Saisissez votre e-mail">
+   </form>
+    
+  </body>
+</html>
