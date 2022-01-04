@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+   <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <!--<div class="container">
+      <div class="header"></div>
+      <div class="content"></div>
+      <div class="aside"></div>
+      <div class="footer"></div>
+    </div>-->
+
+    <div class="wrapper">
+      <div class="header">hearder</div>
+      <div class="archives">archives</div>
+      <div class="content">content</div>
+      <div class="ads">ads</div>
+      <div class="sponsors">sponsors</div>
+      <div class="footer">footer</div>
+    </div>
+ 
+  </body>
+</html>
