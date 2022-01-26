@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header-wrapper">
+        <header class="header">
+          <nav class="nav">
+            <ul>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
+          </nav>
+          <img class="bandeau-image-hedaer" 
+          src="" 
+          alt="bandeau-image-hedaer">
+        </header>
+      </div>
+<!-- fin "header"-->
+      <div class="content">
+        <video class="video-menu" src="">
+      </div>
+<!-- footer-->
+      <div class="footer">
+        <ul>
+           <li></li>
+           <li></li>
+           <li></li>
+        </ul>
+      </div>
+    </div>
+</body>
+</html>
